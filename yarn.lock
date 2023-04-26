@@ -886,10 +886,10 @@ interpret@^2.2.0:
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-2.2.0.tgz#1a78a0b5965c40a5416d007ad6f50ad27c417df9"
   integrity sha512-Ju0Bz/cEia55xDwUWEa8+olFpCiQoypjnQySseKtmjNrnps3P+xfpUmGr90T7yjlVJmOtybRvPXhKMbHr+fWnw==
 
-ioc-lite@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/ioc-lite/-/ioc-lite-1.0.2.tgz#7ee175eb289b32b688aa4ba4d6928d715c3c3499"
-  integrity sha512-vWgCrwXB00kTd9fJVB39OceYgUUMa43nIm9wk8ZhqyPosA9r3Av3FhzKc/VjUrS0yVVpY2slMolHTuGZSk9Unw==
+ioc-lite@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/ioc-lite/-/ioc-lite-1.2.1.tgz#6959860c93e75b0a90443ac1f1e10cba2f732216"
+  integrity sha512-cR1VJCPAU34BqdXje8n2LtC2Lmp7GY5fk/1lFMEuFlXhMJgVaOuCaILahNIBYLjhMoNKrxyG/3VPvy0V6LfyXw==
 
 ipaddr.js@1.9.1:
   version "1.9.1"
